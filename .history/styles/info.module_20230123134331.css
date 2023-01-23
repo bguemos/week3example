@@ -1,0 +1,15 @@
+.images{
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+    
+}
+.header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.graphic{
+margin-left: 20%;
+}
