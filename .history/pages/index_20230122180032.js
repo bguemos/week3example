@@ -52,7 +52,7 @@ export default function Home() {
             className={styles.logo}
             src="/women.png"
             alt="womanLogo"
-            width={400}
+            width={100}
             height={100}
             priority
           />

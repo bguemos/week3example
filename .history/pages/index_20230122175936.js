@@ -50,10 +50,10 @@ export default function Home() {
         <div className={styles.center}>
           <Image
             className={styles.logo}
-            src="/women.png"
+            src="women.png"
             alt="womanLogo"
-            width={400}
-            height={100}
+            width={500}
+            height={500}
             priority
           />
          
