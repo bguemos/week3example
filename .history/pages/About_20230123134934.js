@@ -38,18 +38,16 @@ export default function About() {
                 })}
         </div>
         <div className={styles.images}>
-            <img 
+            <img className={styles.girl1}
             src="/assets/woman5.svg" 
             alt="logo"
             height={200}
             width={200}
             
          />
-         <img 
+         <img
          src="/assets/woman2.svg"
          alt="pic"
-         height={200}
-         width={200}
         />
         </div>
         <h1 className={styles.header}> Woman of the office</h1>
