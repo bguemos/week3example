@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Jenna",
+        "position": "manager",
+        "department":"corporate",
+        "yearsWorked": 4
+    },
+    {
+        "name": "Natalie",
+        "position": "general manager",
+        "department":"corporate",
+        "yearsWorked": 15
+
+    },
+    {
+        "name":"Sarah",
+        "position": "ceo",
+        "department":"corporate",
+        "yearsWorked": 20
+    }
+
+
+]

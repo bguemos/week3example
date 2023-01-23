@@ -1,0 +1,10 @@
+.main{
+    background-color: hotpink;
+    opacity: .7;
+}
+.forbes{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   
+}

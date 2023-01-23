@@ -1,0 +1,25 @@
+[
+
+
+{
+    "employeeName": "Jenna",
+    "employeePosition": "manager",
+    "department":"corporate",
+    "yearsWorked": 4
+},
+{
+    "employeeName": "Natalie",
+    "employeePosition": "general manager",
+    "department":"corporate",
+    "yearsWorked": 15
+
+},
+{
+    "employeeName":"Sarah",
+    "employeePosition": "ceo",
+    "department":"corporate",
+    "yearsWorked": 20
+}
+
+
+]

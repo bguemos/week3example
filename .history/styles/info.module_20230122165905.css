@@ -1,0 +1,10 @@
+.images{
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+    
+}
+.header{
+    align-items: center;
+    
+}
